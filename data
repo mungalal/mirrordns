@@ -5,4 +5,6 @@
 =mail.internal:192.168.20.2:86400
 +unagi.internal:192.168.20.2:86400
 +test.internal:192.168.20.30:86400
-+test1.internal.192.168.20.30:86400
++test1.internal:192.168.20.30:86400
++test2.internal:192.168.20.33:86400
++munga.internal:192.168.20.128:86400
