@@ -4,4 +4,3 @@
 =ns.internal:192.168.20.1:86400
 =mail.internal:192.168.20.2:86400
 +unagi.internal:192.168.20.2:8640
-+test1.ingdfnal:192.168.20.35:8640
